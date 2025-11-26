@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="bonfire.gif" width="100%" style="border-radius: 10px;" />
+    <img src="bonfire.gif" width="700px" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.4); margin-bottom: 20px;" />
 </div>
-
-<br/>
 
 # 💫 About Me:
 I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
@@ -16,9 +14,6 @@ I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
 ![](https://github-readme-stats.vercel.app/api?username=prettycoolflacko&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prettycoolflacko&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prettycoolflacko&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prettycoolflacko&theme=holi&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prettycoolflacko&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
