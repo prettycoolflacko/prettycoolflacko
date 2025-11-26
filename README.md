@@ -12,9 +12,9 @@ I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettycoolflacko&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
+</div> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prettycoolflacko&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
