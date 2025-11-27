@@ -1,6 +1,5 @@
 <div align="center">
     <img src="bonfire.gif" width="700px" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.4); margin-bottom: 20px;" />
-</div>
 
 # 💫 About Me:
 I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
@@ -20,3 +19,4 @@ I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prettycoolflacko&icon=2&color=0)](https://visitcount.itsvg.in)
+</div>
