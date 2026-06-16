@@ -2,7 +2,7 @@
     <img src="bonfire.gif" width="700px" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.4); margin-bottom: 20px;" />
 
 # 💫 About Me:
-I Be That Pretty Motha Fucka CompSci Student man, Holla at Me
+I Be That Pretty Motha CompSci Student man, Holla at Me
 
 ---
 
